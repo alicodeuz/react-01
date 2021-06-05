@@ -7,11 +7,11 @@ export default function App() {
   return (
     <>
       <Home title="Home page suckers!" />
-      <Home
+      {/* <Home
         title="Ooohooo"
         page="12"
       />
-      <About title="About Page!" subTitle="This is sub title man." />
+      <About title="About Page!" subTitle="This is sub title man." /> */}
     </>
   )
 };

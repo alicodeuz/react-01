@@ -3,7 +3,6 @@ import UniversalComponent from './UniversalComponent';
 import logo from './logo.png';
 
 const About = (props) => {
-  console.log(props)
   return (
     <section>
       <h2>{props.title}</h2>
